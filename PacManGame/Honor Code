@@ -1,0 +1,14 @@
+"On my honor, I have not given, nor received, not witnessed any unauthorized assistance on this work"
+
+Maria G Morales.
+
+Resources used:
+
+Images:
+   ghost.png from Google images
+   pacman.png from Google images
+   
+Websites:
+   https://docs.oracle.com/javase/8/docs/api/java/awt/geom/Rectangle2D.html#contains-double-double-
+   https://introcs.cs.princeton.edu/java/stdlib/javadoc/StdDraw.html#text(double,%20double,%20java.lang.String,%20double)
+   https://introcs.cs.princeton.edu/java/stdlib/javadoc/StdDraw.html#picture(double,%20double,%20java.lang.String,%20double,%20double)
